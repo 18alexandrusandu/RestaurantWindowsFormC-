@@ -1,0 +1,16 @@
+C:\Users\Alexandru Andercou\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\AplicatieRestaurant.csprojAssemblyReference.cache
+C:\Users\Alexandru Andercou\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Alexandru Andercou\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.UI.AdminUI.resources
+C:\Users\Alexandru Andercou\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.UI.AngajatUI.resources
+C:\Users\Alexandru Andercou\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.UI.ErrorUI.resources
+C:\Users\Alexandru Andercou\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.UI.LoginUI.resources
+C:\Users\Alexandru Andercou\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.UI.ReportUI.resources
+C:\Users\Alexandru Andercou\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.UI.StatisticsUI.resources
+C:\Users\Alexandru Andercou\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.UI.SuccesUI.resources
+C:\Users\Alexandru Andercou\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\AplicatieRestaurant.csproj.GenerateResource.cache
+C:\Users\Alexandru Andercou\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\AplicatieRestaurant.csproj.CoreCompileInputs.cache
+C:\Users\Alexandru Andercou\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Alexandru Andercou\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Alexandru Andercou\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Alexandru Andercou\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Alexandru Andercou\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
